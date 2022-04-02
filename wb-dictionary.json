@@ -1,0 +1,1952 @@
+[
+    {
+      "key": "added-desc-officials",
+      "en": "Below , you can view the information of your business official . You can also add any missing business official",
+      "ar": "Below , you can view the information of your business official . You can also add any missing business official - ar"
+    },
+    {
+      "key": "alert-title-key",
+      "en": "You are about to submit this application",
+      "ar": "You are about to submit this application - ar"
+    },
+    {
+      "key": "alert-txt-key",
+      "en": "by submitting the application , you will not be able to go back or make any edits in the application",
+      "ar": "by submitting the application , you will not be able to go back or make any edits in the application - ar"
+    },
+    {
+      "key": "co-registration-type",
+      "en": "Registration Type",
+      "ar": "Registration Type - ar"
+    },
+    {
+      "key": "company-trade-licence",
+      "en": "Company Trade License",
+      "ar": "Company Trade License -AR"
+    },
+    {
+      "key": "financial-poa",
+      "en": "Financial Power of Attorney",
+      "ar": "Financial Power of Attorney -Ar"
+    },
+    {
+      "key": "register",
+      "en": "Register",
+      "ar": "Register-AR"
+    },
+    {
+      "key": "shr",
+      "en": "SHR",
+      "ar": "SHR-AR"
+    },
+    {
+      "key": "br",
+      "en": "BR",
+      "ar": "BR-AR"
+    },
+    {
+      "key": "registration",
+      "en": "Registration",
+      "ar": "Registration-AR"
+    },
+    {
+      "key": "cert-of-insurance",
+      "en": "Certificate of Insurance",
+      "ar": "Certificate of Insurance -AR"
+    },
+    {
+      "key": "amoa",
+      "en": "AMOA",
+      "ar": "AMOA-ar"
+    },
+    {
+      "key": "article-of-association",
+      "en": "Article of Association",
+      "ar": "Article of Association-AR"
+    },
+    {
+      "key": "consent-form",
+      "en": "Consent Form",
+      "ar": "Consent Form-ar"
+    },
+    {
+      "key": "acc-form",
+      "en": "Acceptance Form",
+      "ar": "Acceptance Form-AR"
+    },
+    {
+      "key": "vat",
+      "en": "VAT",
+      "ar": "VAT-AR"
+    },
+    {
+      "key": "trade-licence",
+      "en": "Trade License",
+      "ar": "Trade License -AR"
+    },
+    {
+      "key": "company-related-documents",
+      "en": "Company Related Documents",
+      "ar": "Company Related Documents -ar"
+    },
+    {
+      "key": "moa",
+      "en": "Memorandum of Association",
+      "ar": "Memorandum of Association -AR"
+    },
+    {
+      "key": "applicant-emirates-id",
+      "en": "Applicant Emirates ID",
+      "ar": "Applicant Emirates ID-AR"
+    },
+    {
+      "key": "applicant-related-documents",
+      "en": "Applicant Related Documents",
+      "ar": "Applicant Related Documents-AR"
+    },
+    {
+      "key": "ras_al_khaimah",
+      "en": "Ras Al Khaimah",
+      "ar": "Ras Al Khaimah-ar"
+    },
+    {
+      "key": "abu_dhabi",
+      "en": "Abu Dhabi",
+      "ar": "Abu Dhabi-ar"
+    },
+    {
+      "key": "ajman",
+      "en": "Ajman",
+      "ar": "Ajman-ar"
+    },
+    {
+      "key": "fujairah",
+      "en": "Fujairah",
+      "ar": "Fujairah-AR"
+    },
+    {
+      "key": "dubai",
+      "en": "Dubai",
+      "ar": "Dubai-AR"
+    },
+    {
+      "key": "sharjah",
+      "en": "Sharjah",
+      "ar": "Sharjah-AR"
+    },
+    {
+      "key": "umm_al_quwain",
+      "en": "Umm Al Quwain",
+      "ar": "Umm Al Quwain-AR"
+    },
+    {
+      "key": "deposit_own_account",
+      "en": "Own account transfer/personal Funds",
+      "ar": "Own account transfer/personal Funds-AR"
+    },
+    {
+      "key": "business_proceeds",
+      "en": "Business proceeds",
+      "ar": "Business proceeds-AR"
+    },
+    {
+      "key": "return_on_investment",
+      "en": "Return on Investment",
+      "ar": "Return on Investment-AR"
+    },
+    {
+      "key": "commissions_or_contacts_fees",
+      "en": "Commissions or contacts fees",
+      "ar": "Commissions or contacts fees-AR"
+    },
+    {
+      "key": "others",
+      "en": "Others",
+      "ar": "Others-AR"
+    },
+    {
+      "key": "250-Million_and_above",
+      "en": "250 Million and above",
+      "ar": "250 Million and above_AR"
+    },
+    {
+      "key": "AED_100_Million_AED_250_Million",
+      "en": "AED_100_Million_AED_250_Million",
+      "ar": "AED 100 Million - AED 250 Million-AR"
+    },
+    {
+      "key": "AED_10_Million_AED_100_Million",
+      "en": "AED 10 Million - AED 100 Million",
+      "ar": "AED 10 Million - AED 100 Million-AR"
+    },
+    {
+      "key": "Below_AED_10_Million",
+      "en": "Below AED 10 Million",
+      "ar": "Below AED 10 Million-AR"
+    },
+    {
+      "key": "above_transactions",
+      "en": "Above 500 Transactions",
+      "ar": "Above 500 Transactions-AR"
+    },
+    {
+      "key": "fifty_transactions",
+      "en": "50-200 Transactions",
+      "ar": "50-200 Transactions-AR"
+    },
+    {
+      "key": "less_than_50",
+      "en": "Less than 50 Transactions",
+      "ar": "Less than 50 Transactions-AR"
+    },
+    {
+      "key": "two_hundred_transactions",
+      "en": "200-500 Transactions",
+      "ar": "200-500 Transactions-AR"
+    },
+    {
+      "key": "entity",
+      "en": "Entity",
+      "ar": "Entity_AR"
+    },
+    {
+      "key": "person",
+      "en": "Person",
+      "ar": "Person -AR"
+    },
+    {
+      "key": "shareholder",
+      "en": "Shareholder",
+      "ar": "Shareholder-AR"
+    },
+    {
+      "key": "company",
+      "en": "Company",
+      "ar": "Company-AR"
+    },
+    {
+      "key": "company-signatory",
+      "en": "Company Signatory",
+      "ar": "Company Signatory-ar"
+    },
+    {
+      "key": "signatory",
+      "en": "Signatory",
+      "ar": "Signatory-ar"
+    },
+    {
+      "key": "address",
+      "en": "Address",
+      "ar": "Address-ar"
+    },
+    {
+      "key": "official-details",
+      "en": "Official Details",
+      "ar": "Official Details -ar"
+    },
+    {
+      "key": "futher-details",
+      "en": "Further Details",
+      "ar": "Further Details-ar"
+    },
+    {
+      "key": "is-signatory",
+      "en": "Is Signatory",
+      "ar": "Is Signatory-ar"
+    },
+    {
+      "key": "business-details-desc",
+      "en": "Please enter the details of the business official below",
+      "ar": "Please enter the details of the business official below-ar"
+    },
+    {
+      "key": "bussiness-details",
+      "en": "Business official Details",
+      "ar": "Business official Details-ar"
+    },
+    {
+      "key": "share-holder-type",
+      "en": "Shareholder Type",
+      "ar": "Shareholder Type-ar"
+    },
+    {
+      "key": "share",
+      "en": "Share",
+      "ar": "Share-AR"
+    },
+    {
+      "key": "belonging-entity",
+      "en": "Belonging Entity",
+      "ar": "Belonging Entity-ar"
+    },
+    {
+      "key": "power-of-attorney",
+      "en": "Is power of attorney",
+      "ar": "Is power of attorney -ar"
+    },
+    {
+      "key": "authority-check",
+      "en": "Is there an authority check",
+      "ar": "Is there an authority check-ar"
+    },
+    {
+      "key": "acceptance-form",
+      "en": "Is There An Acceptance Form",
+      "ar": "Is There An Acceptance Form-ar"
+    },
+    {
+      "key": "country-of-address",
+      "en": "Country of Address",
+      "ar": "Country of Address-AR"
+    },
+    {
+      "key": "country-of-activity",
+      "en": "Country of Activity",
+      "ar": "Country of Activity-Ar"
+    },
+    {
+      "key": "country-of-birth",
+      "en": "Country of Birth",
+      "ar": "Country of Birth-AR"
+    },
+    {
+      "key": "business-official-type",
+      "en": "Business Official Type",
+      "ar": "Business Official Type-AR"
+    },
+    {
+      "key": "name",
+      "en": "Name",
+      "ar": "Name-AR"
+    },
+    {
+      "key": "application-review",
+      "en": "Application Review",
+      "ar": "Application Review-AR"
+    },
+    {
+      "key": "applicant-details",
+      "en": "Applicant Details",
+      "ar": "Applicant Details-AR"
+    },
+    {
+      "key": "fund-source",
+      "en": "Fund Source",
+      "ar": "Fund Source-AR"
+    },
+    {
+      "key": "account-purpose",
+      "en": "Account Purpose",
+      "ar": "Account Purpose-AR"
+    },
+    {
+      "key": "vat-number",
+      "en": "VAT Number",
+      "ar": "VAT Number -AR"
+    },
+    {
+      "key": "missing-vat-reason",
+      "en": "Missing Vat Reason",
+      "ar": "Missing Vat Reason-AR"
+    },
+    {
+      "key": "monthly-transaction",
+      "en": "Monthly Transaction",
+      "ar": "Monthly Transaction-AR"
+    },
+    {
+      "key": "annual-turn-over",
+      "en": "Annual Turn Over",
+      "ar": "Annual Turn Over-AR"
+    },
+    {
+      "key": "deposit-resource",
+      "en": "Deposit Resource",
+      "ar": "Deposit Resource-AR"
+    },
+    {
+      "key": "emirates",
+      "en": "Emirates",
+      "ar": "Emirates-AR"
+    },
+    {
+      "key": "address-two",
+      "en": "Address 2",
+      "ar": "Address 2-AR"
+    },
+    {
+      "key": "address-one",
+      "en": "Address 1",
+      "ar": "Address 1-AR"
+    },
+    {
+      "key": "postal-code",
+      "en": "Postal Code",
+      "ar": "Postal Code-AR"
+    },
+    {
+      "key": "shatreholder-count",
+      "en": "Shareholder Count",
+      "ar": "Shareholder Count-AR"
+    },
+    {
+      "key": "company-authorised-user",
+      "en": "Company Authorised User",
+      "ar": "Company Authorised User-AR"
+    },
+    {
+      "key": "d-and-b-number",
+      "en": "D & B Number",
+      "ar": "D & B Number-AR"
+    },
+    {
+      "key": "issuing-auth-name",
+      "en": "Issuing Authority Name",
+      "ar": "Issuing Authority Name-AR"
+    },
+    {
+      "key": "licence-issuing-date",
+      "en": "Trade Licence Issuing Date",
+      "ar": "Licence Issuing Date-AR"
+    },
+    {
+      "key": "legal-type",
+      "en": "Legal Type",
+      "ar": "Legal Type-AR"
+    },
+    {
+      "key": "licencing-activities",
+      "en": "Licencing Activities",
+      "ar": "Licencing Activities-AR"
+    },
+    {
+      "key": "date-of-registration",
+      "en": "Date of Registration",
+      "ar": "Date of Registration-AR"
+    },
+    {
+      "key": "expiry-date",
+      "en": "Expiry Date",
+      "ar": "Expiry Date-AR"
+    },
+    {
+      "key": "country-of-incorporation",
+      "en": "Country of Incorporation",
+      "ar": "Country of Incorporation -AR"
+    },
+    {
+      "key": "date-of-incorporation",
+      "en": "Date of Incorporation",
+      "ar": "Date of Incorporation-AR"
+    },
+    {
+      "key": "company-name",
+      "en": "Company Name",
+      "ar": "Company Name-AR"
+    },
+    {
+      "key": "company-details-desc",
+      "en": "Please provide your company details below",
+      "ar": "Please provide your company details below-AR"
+    },
+    {
+      "key": "eid-expiry-date",
+      "en": "EID Expiry Date",
+      "ar": "EID Issuance Date-AR"
+    },
+    {
+      "key": "eid-issuance-date",
+      "en": "EID Issuance Date",
+      "ar": "EID Issuance Date-AR"
+    },
+    {
+      "key": "eid-number",
+      "en": "EID Number",
+      "ar": "EID Number-AR"
+    },
+    {
+      "key": "nationality",
+      "en": "Nationality",
+      "ar": "Nationality-AR"
+    },
+    {
+      "key": "review-business-officials",
+      "en": "Review Business Officials",
+      "ar": "Review Business Officials-AR"
+    },
+    {
+      "key": "user-details",
+      "en": "User Details",
+      "ar": "User Details-AR"
+    },
+    {
+      "key": "business-sec",
+      "en": "GO TO ADLOCKER",
+      "ar": "GO TO ADLOCKER - AR"
+    },
+    {
+      "key": "business-primary",
+      "en": "UPLOAD DOCUMENTS",
+      "ar": "UPLOAD DOCUMENTS - AR"
+    },
+    {
+      "key": "application-status-key",
+      "en": "Application Status",
+      "ar": "Application Status -ar"
+    },
+    {
+      "key": "application-number-key",
+      "en": "application Number",
+      "ar": "application Number - ar"
+    },
+    {
+      "key": "business-desc",
+      "en": "Your application has been submitted",
+      "ar": "Your application has been submitted - ar"
+    },
+    {
+      "key": "business-title",
+      "en": "Business Officials Details have been Submitted Successfully",
+      "ar": "Business Officials Details have been Submitted Successfully - ar"
+    },
+    {
+      "key": "review-sec",
+      "en": "GO TO AD LOCKER",
+      "ar": "GO TO AD LOCKER - AR"
+    },
+    {
+      "key": "review-primary",
+      "en": "ADD BUSINESS OFFICIAL",
+      "ar": "ADD BUSINESS OFFICIAL - AR"
+    },
+    {
+      "key": "company-desc",
+      "en": "Your application has been submitted",
+      "ar": "Your application has been submitted - ar"
+    },
+    {
+      "key": "company-title",
+      "en": "Company Details Have Been Submitted",
+      "ar": "Company Details Have Been Submitted - ar"
+    },
+    {
+      "key": "invalid-name",
+      "en": "Invalid Language Input",
+      "ar": "لغة الإدخال غير صحيحة"
+    },
+    {
+      "key": "enter-business-officials-sub-header",
+      "en": "Below you can view the information of your business officials. You can also add any missing business official.",
+      "ar": "Below you can view the information of your business officials. You can also add any missing business official.-ar"
+    },
+    {
+      "key": "enter-business-officials",
+      "en": "Enter Business Officials",
+      "ar": "Enter Business Officials-AR"
+    },
+    {
+      "key": "add-business-officials",
+      "en": "Add Business Officials",
+      "ar": "add-business-officials-AR"
+    },
+    {
+      "key": "added-business-officials",
+      "en": "Added Business Officials",
+      "ar": "Added Business Officials-AR"
+    },
+    {
+      "key": "select-bank",
+      "en": "Select Bank",
+      "ar": "Select Bank-ar"
+    },
+    {
+      "key": "choose-a-bank",
+      "en": "Choose a Bank",
+      "ar": "Choose a Bank-ar"
+    },
+    {
+      "key": "customer-due-diligence-info",
+      "en": "Customer Due Diligence Information",
+      "ar": "Customer Due Diligence Information-AR"
+    },
+    {
+      "key": "company-financial-overview",
+      "en": "Company Financial Overview",
+      "ar": "Company Financial Overview-AR"
+    },
+    {
+      "key": "company-profile",
+      "en": "Company Profile",
+      "ar": "Company Profile-AR"
+    },
+    {
+      "key": "landline",
+      "en": "Landline",
+      "ar": "Landline-AR"
+    },
+    {
+      "key": "trade-licence-information",
+      "en": "Trade Licence Information",
+      "ar": "Trade Licence Information-AR"
+    },
+    {
+      "key": "verify",
+      "en": "Verify",
+      "ar": "Verify-AR"
+    },
+    {
+      "key": "registration-number",
+      "en": "Registration Number",
+      "ar": "Registration Number-ar"
+    },
+    {
+      "key": "eid-title",
+      "en": "EID Information",
+      "ar": "EID Information - ar"
+    },
+    {
+      "key": "request-details-desc",
+      "en": "Kindly select the bank you wish to proceed with and review your details",
+      "ar": "Kindly select the bank you wish to proceed with and review your details-ar"
+    },
+    {
+      "key": "request-details",
+      "en": "Request Details",
+      "ar": "Request Details- AR"
+    },
+    {
+      "key": "bank-account",
+      "en": "Bank Account  Application",
+      "ar": "Bank Account  Application - ar"
+    },
+    {
+      "key": "open-bank-account-title",
+      "en": "Open a Business Bank Account",
+      "ar": "طلب فتح حساب بنكي"
+    },
+    {
+      "key": "startBusniess",
+      "en": "Start a Business",
+      "ar": "رحلة تأسيس مشروع"
+    },
+    {
+      "key": "select",
+      "en": "Select",
+      "ar": "تحديد"
+    },
+    {
+      "key": "select-account-desc",
+      "en": "Select the bank you wish to open an account with from the drop down below.",
+      "ar": "قُم بتحديد البنك الذي ترغب في فتح حساب به من القائمة المنسدلة أدناه."
+    },
+    {
+      "key": "existing-bank-account-desc",
+      "en": "Do you have an existing bank account with the selected bank?",
+      "ar": "هل لديك حساب بنكي قائم لدى البنك المُحدد؟"
+    },
+    {
+      "key": "select-bank-desc",
+      "en": "Select the bank you wish to open an account with from the drop down below.",
+      "ar": "قُم بتحديد البنك الذي ترغب في فتح حساب به من القائمة المنسدلة أدناه."
+    },
+    {
+      "key": "select-bank-name",
+      "en": "Select Bank",
+      "ar": "تحديد البنك"
+    },
+    {
+      "key": "serial-number",
+      "en": "S.No.",
+      "ar": "الرقم‎"
+    },
+    {
+      "key": "uploaded-documents",
+      "en": "Uploaded Documents",
+      "ar": "وثائق أخرى"
+    },
+    {
+      "key": "edit-partner-information-key",
+      "en": "Edit Partner Information",
+      "ar": "عرض معلومات الشريك"
+    },
+    {
+      "key": "service-listing",
+      "en": "Service Listing",
+      "ar": "Service Listing"
+    },
+    {
+      "key": "journey-not-started-desc",
+      "en": "This service can only be initiated as a part of journey. If you wish to start a journey, you can go to service listing or contact us for any inquiry.",
+      "ar": "This service can only be initiated as a part of journey. If you wish to start a journey, you can go to service listing or contact us for any inquiry."
+    },
+    {
+      "key": "journey-not-started",
+      "en": "Journey Not started",
+      "ar": "Journey Not started"
+    },
+    {
+      "key": "bc_industrial_journey",
+      "en": "Start an Industrial Business",
+      "ar": "Start an Industrial Business"
+    },
+    {
+      "key": "service-name2",
+      "en": "Bank Account Application",
+      "ar": "طلب فتح حساب بنكي مع بنك"
+    },
+    {
+      "key": "please-add-the-financial-details",
+      "en": "Please add the financial details",
+      "ar": "الرجاء إضافة التفاصيل المالية"
+    },
+    {
+      "key": "other-document-details",
+      "en": "Other Document Details",
+      "ar": "تفاصيل المستندات الأخرى"
+    },
+    {
+      "key": "withdrawal",
+      "en": "WITHDRAWAL",
+      "ar": "سحب"
+    },
+    {
+      "key": "deposit",
+      "en": "DEPOSIT",
+      "ar": "إيداع"
+    },
+    {
+      "key": "remittances",
+      "en": "REMITTANCES",
+      "ar": "تحويلات"
+    },
+    {
+      "key": "cheque",
+      "en": "CHEQUE",
+      "ar": "شيك"
+    },
+    {
+      "key": "cash",
+      "en": "CASH",
+      "ar": "عملة نقدية"
+    },
+    {
+      "key": "invalid-city",
+      "en": "Invalid City",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-reason",
+      "en": "Invalid High Cash Transaction Reason",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-area",
+      "en": "Invalid Area",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-building-name",
+      "en": "Invalid Building Name",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-supplier-name",
+      "en": "Invalid Supplier Name",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-nature-of-business",
+      "en": "Invalid Nature Of Business",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-customer-name",
+      "en": "Invalid Customer Name",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-name-on-debit-card",
+      "en": "Invalid Name on Debit Card",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-tax-reg-number-length",
+      "en": "Tax Registration Number should be minimum eight digits",
+      "ar": "يجب ألا يقل رقم التسجيل الضريبي عن ثمانية أرقام"
+    },
+    {
+      "key": "supplier-name-exist",
+      "en": "Suppliers already exist please add a unique one",
+      "ar": "الرجاء إضافة مزود مختلف"
+    },
+    {
+      "key": "customer-name-exist",
+      "en": "Customer already exist please add a unique one",
+      "ar": "الرجاء إضافة زبون مختلف"
+    },
+    {
+      "key": "invalid-p-box-number",
+      "en": "Invalid P.O Box number",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-floor-number",
+      "en": "Invalid Floor Number",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "invalid-tax-reg-number",
+      "en": "Invalid Tax Registration Number",
+      "ar": "إدخال خاطئ"
+    },
+    {
+      "key": "local-location-key",
+      "en": "Local Location",
+      "ar": "موقع محلي"
+    },
+    {
+      "key": "financial-information",
+      "en": "FINANCIAL DETAILS",
+      "ar": "التفاصيل المالية"
+    },
+    {
+      "key": "partner-information-key",
+      "en": "PARTNER INFORMATION",
+      "ar": "معلومات الشريك"
+    },
+    {
+      "key": "company-has-physical-office",
+      "en": "Company Has a Physical Office",
+      "ar": "الشركة لديها مكتب"
+    },
+    {
+      "key": "top-countries-for-remittance",
+      "en": "Top Countries for Remittance",
+      "ar": "أعلى بلدان للتحويلات"
+    },
+    {
+      "key": "form-error-server",
+      "en": "Internal Server  Error",
+      "ar": "خطأ في الخادم الداخلي"
+    },
+    {
+      "key": "partner-description",
+      "en": "Kindly upload the relevant partner’s and company documents to your application.",
+      "ar": ".يرجى تحميل المستندات المطلوبة على التطبيق الخاص بك. يمكنك أيضًا الاطلاع على المعلومات ذات الصلة بطلبك"
+    },
+    {
+      "key": "partner-uploads",
+      "en": "Upload Documents",
+      "ar": "تحميل المستندات"
+    },
+    {
+      "key": "upload-btn",
+      "en": "UPLOAD",
+      "ar": "تحميل"
+    },
+    {
+      "key": "upload-partner-documents",
+      "en": "Upload Partner Documents",
+      "ar": "تحميل مستندات الشركاء"
+    },
+    {
+      "key": "upload-partner-docs",
+      "en": "Kindly upload the requested documents for the partners",
+      "ar": "يرجى تحميل المستندات المطلوبة للشركاء"
+    },
+    {
+      "key": "status",
+      "en": "Status",
+      "ar": "الحالة"
+    },
+    {
+      "key": "application-submitted",
+      "en": "Your Bank Application Has Been Submitted",
+      "ar": "Your Bank Application Has Been Submitted-ar"
+    },
+    {
+      "key": "partner-upload-documents",
+      "en": "Partner Documents",
+      "ar": "وثائق الشركاء"
+    },
+    {
+      "key": "next-action",
+      "en": "Next Action",
+      "ar": "الإجراء التالي"
+    },
+    {
+      "key": "email-address",
+      "en": "Email Address",
+      "ar": "البريد الإلكتروني"
+    },
+    {
+      "key": "success-title-text",
+      "en": "The bank has created your account. Kindly check your bank communication messages for next steps.",
+      "ar": "تم إنشاء حسابك لدى البنك. يرجى التحقق من رسائل التواصل البنكي لمعرفة الخطوات التالية."
+    },
+    {
+      "key": "success-title",
+      "en": "Your Application Has Been Accepted",
+      "ar": "تم قبول طلبك"
+    },
+    {
+      "key": "reject-title-text",
+      "en": "Your application has been rejected by the bank. Mashreq Bank will get in touch with you for further details. You can contact Mashreq Bank on:",
+      "ar": "تم رفض طلبك من قبل البنك. سيتواصل معك بنك المشرق للحصول على مزيد من التفاصيل. يمكنك التواصل مع بنك المشرق عبر:"
+    },
+    {
+      "key": "reject-title",
+      "en": "Your Application Has Been Rejected",
+      "ar": "تم رفض طلبك"
+    },
+    {
+      "key": "complete-status",
+      "en": "Complete",
+      "ar": "Complete -AR"
+    },
+    {
+      "key": "rejected-status",
+      "en": "Rejected",
+      "ar": "مرفوض"
+    },
+    {
+      "key": "pending-status",
+      "en": "Pending",
+      "ar": "Pending-Ar"
+    },
+    {
+      "key": "home-location-key",
+      "en": "Location",
+      "ar": "الموقع"
+    },
+    {
+      "key": "save-btn",
+      "en": "SAVE",
+      "ar": "حفظ"
+    },
+    {
+      "key": "file-type",
+      "en": "File Types .pdf",
+      "ar": "نوع الملف"
+    },
+    {
+      "key": "submit-btn",
+      "en": "Submit",
+      "ar": "إرسال"
+    },
+    {
+      "key": "select-drop",
+      "en": "Select",
+      "ar": "يختار"
+    },
+    {
+      "key": "address-type",
+      "en": "Address Type",
+      "ar": "نوع العنوان"
+    },
+    {
+      "key": "land-phone-number",
+      "en": "Landline Phone Number",
+      "ar": "رقم الهاتف الأرضي"
+    },
+    {
+      "key": "partner-local-home-checkbox",
+      "en": "The partner local address is different than the partner home address.",
+      "ar": "العنوان المحلي للشريك مختلف عن عنوان منزل الشريك."
+    },
+    {
+      "key": "do-not-have-emirates-checkbox",
+      "en": "I currently do not have an Emirates ID",
+      "ar": "ليس لدي هوية."
+    },
+    {
+      "key": "do-not-have-visa-checkbox",
+      "en": "I currently do not have a visa",
+      "ar": "ليس لدي تأشيرة."
+    },
+    {
+      "key": "partner-details",
+      "en": "Partner Details",
+      "ar": "تفاصيل الشريك"
+    },
+    {
+      "key": "partner-local-address",
+      "en": "Partner Local Address",
+      "ar": "العنوان المحلي للشريك"
+    },
+    {
+      "key": "partner-home-address",
+      "en": "Partner Home Address",
+      "ar": "عنوان منزل الشريك"
+    },
+    {
+      "key": "bc_bank_account_application",
+      "en": "Bank Account Application",
+      "ar": "طلب فتح حساب بنكي"
+    },
+    {
+      "key": "additional-line-of-businesses",
+      "en": "Additional Line of Business",
+      "ar": "خط الأعمال الإضافي"
+    },
+    {
+      "key": "add-financial-details-key",
+      "en": "Add Financial Details",
+      "ar": "إضافة التفاصيل المالية"
+    },
+    {
+      "key": "board-resolution-cert",
+      "en": "Board Resolution Certificate",
+      "ar": "شهادة قرار مجلس الإدارة"
+    },
+    {
+      "key": "mobile-key",
+      "en": "Mobile",
+      "ar": "الهاتف"
+    },
+    {
+      "key": "shared-percentage-key",
+      "en": "Shared Percentage",
+      "ar": "النسبة المئوية المشتركة"
+    },
+    {
+      "key": "name-on-debit-card",
+      "en": "Name on debit card",
+      "ar": "اسمكة على بطاقة الخصم المباشر"
+    },
+    {
+      "key": "edit-supplier-information",
+      "en": "Edit Supplier Information",
+      "ar": "قم بتعديل معلومات الموّرد"
+    },
+    {
+      "key": "edit-customer-information",
+      "en": "Edit Customer Information",
+      "ar": "تعديل معلومات المتعامل"
+    },
+    {
+      "key": "application-number",
+      "en": "Application Number",
+      "ar": "رقم الطلب"
+    },
+    {
+      "key": "re_designation",
+      "en": "Designation",
+      "ar": "المسمى الوظيفي"
+    },
+    {
+      "key": "re_issue_place",
+      "en": "Issue Place",
+      "ar": "مكان الإصدار"
+    },
+    {
+      "key": "re_visa_date_of_issue",
+      "en": "Date of Issue",
+      "ar": "تاريخ الإصدار"
+    },
+    {
+      "key": "re_visa_date_of_expiry",
+      "en": "Date of Expiry",
+      "ar": "تاريخ انتهاء الصلاحية"
+    },
+    {
+      "key": "re_sponsor_name",
+      "en": "Sponsor Name",
+      "ar": "اسم الكفيل"
+    },
+    {
+      "key": "re_name_on_visa",
+      "en": "Name on Visa",
+      "ar": "الاسم على التأشيرة"
+    },
+    {
+      "key": "re_visa_number",
+      "en": "Visa Number",
+      "ar": "رقم الفيزا"
+    },
+    {
+      "key": "re_pass_birth_country_code",
+      "en": "Birth Country Code",
+      "ar": "رمز بلد الميلاد"
+    },
+    {
+      "key": "re_pass_residence_country_code",
+      "en": "Residence Country Code",
+      "ar": "رمز بلد الإقامة"
+    },
+    {
+      "key": "re_pass_date_of_expiry",
+      "en": "Date of Expiry",
+      "ar": "تاريخ انتهاء الصلاحية"
+    },
+    {
+      "key": "re_pass_date_of_birth",
+      "en": "Date of Birth",
+      "ar": "تاريخ الميلاد"
+    },
+    {
+      "key": "re_pass_date_of_issue",
+      "en": "Date of Issue",
+      "ar": "تاريخ الإصدار"
+    },
+    {
+      "key": "re_pass_name_on_passport",
+      "en": "Name on Passport",
+      "ar": "الاسم على جواز السفر"
+    },
+    {
+      "key": "re_passport_number",
+      "en": "Passport Number",
+      "ar": "رقم جواز السفر"
+    },
+    {
+      "key": "re_date_of_expiry",
+      "en": "Date of Expiry",
+      "ar": "تاريخ انتهاء الصلاحية"
+    },
+    {
+      "key": "re_date_of_birth",
+      "en": "Date of Birth",
+      "ar": "تاريخ الميلاد"
+    },
+    {
+      "key": "re_name_on_emirates_id",
+      "en": "Name on Emirates ID",
+      "ar": "الاسم على الهوية الإماراتية"
+    },
+    {
+      "key": "re_emirates_id",
+      "en": "Emirates ID",
+      "ar": "رقم الهوية الإماراتية"
+    },
+    {
+      "key": "back-to-journey-desc",
+      "en": "You can return to the journey dashboard from here to track your overall progress.",
+      "ar": "يمكنك الرجوع إلى لوحة الصفحة الرئيسية/لوحة التحكم من هنا لتتبع تقدم طلبك في الصفحة الرئيسية لوحة التحكم"
+    },
+    {
+      "key": "company-local-address-key",
+      "en": "Company Local Address",
+      "ar": "العنوان المحلي للشركة"
+    },
+    {
+      "key": "passport",
+      "en": "Passport",
+      "ar": "جواز السفر"
+    },
+    {
+      "key": "user-needs-cheque-book",
+      "en": "User needs a cheque book",
+      "ar": "يحتاج المستخدم إلى دفتر شيكات"
+    },
+    {
+      "key": "bank-acoount-mode",
+      "en": "Bank Account Mode",
+      "ar": "Bank Account Mode-AR"
+    },
+    {
+      "key": "full-name",
+      "en": "Full Name",
+      "ar": "الاسم الكامل"
+    },
+    {
+      "key": "other-documents",
+      "en": "Other Documents",
+      "ar": "وثائق أخرى"
+    },
+    {
+      "key": "back-to-journey",
+      "en": "Back to Journey",
+      "ar": "العودة إلى الرحلة"
+    },
+    {
+      "key": "all_journeys",
+      "en": "Journeys",
+      "ar": "جميع الرحلات"
+    },
+    {
+      "key": "bc_investor_journey",
+      "en": "Investor Journey",
+      "ar": "رحلة المستثمر"
+    },
+    {
+      "key": "bc_home",
+      "en": "Home",
+      "ar": "الصفحة الرئيسية"
+    },
+    {
+      "key": "next",
+      "en": "Next",
+      "ar": "التالي"
+    },
+    {
+      "key": "enter-personal-details",
+      "en": "Enter Personal Details",
+      "ar": "إدخال البيانات الشخصية"
+    },
+    {
+      "key": "uae-pass-account",
+      "en": "The information above was obtained from your UAE PASS account.",
+      "ar": "تم الحصول على المعلومات أعلاه من حساب الهوية الرقمية الشخصي."
+    },
+    {
+      "key": "note",
+      "en": "Note",
+      "ar": "ملاحظة"
+    },
+    {
+      "key": "edit-financial-details-key",
+      "en": "Edit Financial Details",
+      "ar": "تعديل التفاصيل المالية"
+    },
+    {
+      "key": "edit-financial-details-sub-header-key",
+      "en": "Edit your expected monthly deposits and withdrawals",
+      "ar": "تعديل عمليات السحب والإيداع الشهرية المتوقعة."
+    },
+    {
+      "key": "expected-transactions",
+      "en": "Expected Transactions",
+      "ar": "المعاملات المتوقعة"
+    },
+    {
+      "key": "location-key",
+      "en": "Location",
+      "ar": "الموقع"
+    },
+    {
+      "key": "partner-name-key",
+      "en": "Partner Name",
+      "ar": "اسم الشريك"
+    },
+    {
+      "key": "service-name",
+      "en": "Bank Account Application",
+      "ar": "طلب فتح حساب بنكي مع بنك"
+    },
+    {
+      "key": "process_start_err_title",
+      "en": "Something Went Wrong",
+      "ar": "هناك خطأ ما"
+    },
+    {
+      "key": "process_start_err_description",
+      "en": "Unfortunately, an error occurred while starting your request. Please click on the retry button to try again. Kindly contact the Department of Economic Development if you continue to face this issue.",
+      "ar": "Unfortunately, an error occurred while starting your request. Please click on the retry button to try again. Kindly contact the Department of Economic Development if you continue to face this issue.-AR"
+    },
+    {
+      "key": "retry",
+      "en": "RETRY",
+      "ar": "أعد المحاولة"
+    },
+    {
+      "key": "relevant-entity",
+      "en": "Relevant Entity",
+      "ar": "الجهة المسؤولة"
+    },
+    {
+      "key": "gspAddress",
+      "en": "IPIC Building – 15th & 16th Floors Sultan Bin Zayed the First Street  Abu Dhabi, UAE P.O. Box: 108800",
+      "ar": "مبنى آيبك – الطابقين 15 -16  شارع سلطان بن زايد الأول  أبو ظبي، الإمارات العربية المتحدة صندوق بريد 108800"
+    },
+    {
+      "key": "process",
+      "en": "Process",
+      "ar": "خطوات العملية"
+    },
+    {
+      "key": "upgrade-required-title",
+      "en": "Account Upgrade Required",
+      "ar": "ترقية الحساب مُتطلّبة للخدمة"
+    },
+    {
+      "key": "upgradeAccountDesc1",
+      "en": "For more information on how to upgrade your",
+      "ar": "لمزيد من المعلومات عن كيفية ترقية حساب"
+    },
+    {
+      "key": "uaepass",
+      "en": "UAE Pass",
+      "ar": "الهوية الرقمية"
+    },
+    {
+      "key": "upgradeAccountDesc2",
+      "en": ", please download the app from either",
+      "ar": "الخاص بك، يُرجى تنزيل التطبيق الذكي من متجر"
+    },
+    {
+      "key": "appstore",
+      "en": "Apple Store",
+      "ar": "أبل ستور"
+    },
+    {
+      "key": "upgradeAccountDesc3",
+      "en": "or",
+      "ar": "أو"
+    },
+    {
+      "key": "googleplay",
+      "en": "Google Play",
+      "ar": "جوجل بلاي"
+    },
+    {
+      "key": "upgradeAccountDesc4",
+      "en": ", then proceed to follow the instructions to upgrade your account.",
+      "ar": "، ومن ثم قم بالمتابعة بإتباع التعليمات لترقية حسابك، كما يُمكن لمستخدمي حساب"
+    },
+    {
+      "key": "smartpass",
+      "en": "SmartPass",
+      "ar": "الدخول الذكي"
+    },
+    {
+      "key": "upgradeAccountDesc5",
+      "en": "users can upgrade their account by following the instructions given",
+      "ar": "ترقية الحساب الخاص بهم بإتباع التعليمات الموضحة"
+    },
+    {
+      "key": "upgradeAccountDesc6",
+      "en": "here",
+      "ar": "هنا"
+    },
+    {
+      "key": "ineligible-notice-title",
+      "en": "You Are Not Eligible For This Service",
+      "ar": "عذراً، أنت غير مؤهل للحصول على هذه الخدمة"
+    },
+    {
+      "key": "ineligible-notice-description",
+      "en": "Unfortunately, it seems that you are not eligible to access this service. Kindly contact the Abu Dhabi Centre for Technical and Vocational Education and Training if you think this is incorrect. Sorry for any inconvenience caused.",
+      "ar": "Unfortunately, it seems that you are not eligible to access this service. Kindly contact the Abu Dhabi Centre for Technical and Vocational Education and Training if you think this is incorrect. Sorry for any inconvenience caused. - AR"
+    },
+    {
+      "key": "full-name-key",
+      "en": "Full Name",
+      "ar": "الاسم الكامل"
+    },
+    {
+      "key": "mobile-number-key",
+      "en": "Mobile Number",
+      "ar": "رقم الهاتف المتحرك"
+    },
+    {
+      "key": "email",
+      "en": "Email Address",
+      "ar": "البريد الإلكتروني"
+    },
+    {
+      "key": "personal-bank-account-info",
+      "en": "Personal Bank Account Information",
+      "ar": "معلومات الحساب البنكي الشخصي"
+    },
+    {
+      "key": "yes-key",
+      "en": "Yes",
+      "ar": "نعم"
+    },
+    {
+      "key": "no-key",
+      "en": "No",
+      "ar": "لا"
+    },
+    {
+      "key": "is-the-company-owned-by-sole-prop",
+      "en": "Is the company owned by sole proprietor?",
+      "ar": "Is the company owned by sole proprietor-AR?"
+    },
+    {
+      "key": "existing-bank-acc-key",
+      "en": "Do you have an existing bank account with the selected bank?",
+      "ar": "هل لديك حساب بنكي قائم لدى البنك المُحدد؟"
+    },
+    {
+      "key": "choose-op-mode",
+      "en": "BANK ACCOUNT OPERATION MODE",
+      "ar": "نوع الحساب البنكي"
+    },
+    {
+      "key": "statement-password-label",
+      "en": "BANK STATEMENT PASSWORD",
+      "ar": "كلمة سر كشف الحساب البنكي"
+    },
+    {
+      "key": "cheque-book-yes-key",
+      "en": "Yes (A physical visit to the bank is required)",
+      "ar": "نعم (يتطلب ذلك زيارتك لفرع البنك)"
+    },
+    {
+      "key": "need-cheque-book-key",
+      "en": "Do you need a cheque Book?",
+      "ar": "هل تريد دفتر شيكات؟"
+    },
+    {
+      "key": "auth-signatory-name",
+      "en": "AUTHORIZED SIGNATORY NAME",
+      "ar": "اسم المفوّض بالتوقيع"
+    },
+    {
+      "key": "start-typing",
+      "en": "Start Typing",
+      "ar": "ابدأ الكتابة"
+    },
+    {
+      "key": "enter-personal-details-sub-header-key",
+      "en": "Provide all your personal details as the first step to process this bank application.",
+      "ar": "قدِّم جميع بياناتك الشخصية كخطوة أولى للبدء في عملية تقديم هذا الطلب البنكي."
+    },
+    {
+      "key": "enter-personal-details-key",
+      "en": "Enter Personal Details",
+      "ar": "إدخال البيانات الشخصية"
+    },
+    {
+      "key": "primary-contact-details-key",
+      "en": "EID Information",
+      "ar": "EID Information-AR"
+    },
+    {
+      "key": "auth-sig-description",
+      "en": "Name of the authorised signatory who will receive the checkbook and will be the primary contact of the bank. Cheque Book will be issued as per Central Bank guidelines.",
+      "ar": "اسم المفوّض بالتوقيع الذي سيتسلم دفتر الشيكات وسيكون جهة الاتصال الرئيسية مع البنك. سيتم إصدار دفتر الشيكات وفقًا لإرشادات البنك المركزي."
+    },
+    {
+      "key": "customer-to-be-added",
+      "en": "Customer 1",
+      "ar": "Customer 1-AR"
+    },
+    {
+      "key": "customer-name",
+      "en": "Customer Name",
+      "ar": "اسم المتعامل"
+    },
+    {
+      "key": "nature-of-business",
+      "en": "Nature of Business",
+      "ar": "طبيعة الأعمال"
+    },
+    {
+      "key": "company-website",
+      "en": "Company Website",
+      "ar": "Company Website"
+    },
+    {
+      "key": "country-code",
+      "en": "Country Code",
+      "ar": "رمز الدولة"
+    },
+    {
+      "key": "customer-to-be-added-two",
+      "en": "Customer 2",
+      "ar": "Customer 2-AR"
+    },
+    {
+      "key": "customer-to-be-added-three",
+      "en": "Customer 3",
+      "ar": "Customer 3-AR"
+    },
+    {
+      "key": "provide-customer-information",
+      "en": "Please provide the customer information below.",
+      "ar": "يُرجى إدخال معلومات المتعامل أدناه."
+    },
+    {
+      "key": "enter-customer-information",
+      "en": "Enter Customer Information",
+      "ar": "إضافة معلومات المتعامل"
+    },
+    {
+      "key": "save",
+      "en": "Save",
+      "ar": "حفظ"
+    },
+    {
+      "key": "back",
+      "en": "Back",
+      "ar": "السابق"
+    },
+    {
+      "key": "add",
+      "en": "Add",
+      "ar": "إضافة"
+    },
+    {
+      "key": "building-name-key",
+      "en": "Building Name",
+      "ar": "اسم المبنى"
+    },
+    {
+      "key": "floor-number-key",
+      "en": "Floor Number",
+      "ar": "رقم الطابق"
+    },
+    {
+      "key": "area-key",
+      "en": "Area",
+      "ar": "المنطقة"
+    },
+    {
+      "key": "po-box-key",
+      "en": "P.O. Box",
+      "ar": "رقم صندوق البريد"
+    },
+    {
+      "key": "city",
+      "en": "City",
+      "ar": "المدينة"
+    },
+    {
+      "key": "land-line-phone-key",
+      "en": "Landline Phone Number",
+      "ar": "رقم الهاتف الأرضي"
+    },
+    {
+      "key": "country",
+      "en": "Country",
+      "ar": "الدولة"
+    },
+    {
+      "key": "address-type-key",
+      "en": "Address Type",
+      "ar": "نوع العنوان"
+    },
+    {
+      "key": "company-same-mailing-address",
+      "en": "The company mailing address is different than the company address",
+      "ar": "العنوان البريدي للشركة مختلف عن عنوان الشركة"
+    },
+    {
+      "key": "company-mailing-address",
+      "en": "Company Mailing Address",
+      "ar": "العنوان البريدي للشركة"
+    },
+    {
+      "key": "enter-company-location-sub-header",
+      "en": "Validate your company address below.",
+      "ar": "تحقق من صحة عنوان شركتك أدناه."
+    },
+    {
+      "key": "enter-company-location-key",
+      "en": "Enter Company Location",
+      "ar": "قم بإدخال موقع الشركة"
+    },
+    {
+      "key": "company-address-key",
+      "en": "Company Address",
+      "ar": "عنوان الشركة"
+    },
+    {
+      "key": "review-partner-information-sub-header",
+      "en": "Review your partner's information. Ensure that your partner's address is entered below.",
+      "ar": "قم بمراجعة معلوماتك ومعلومات شريكك. وتأكد من إدخال عنوان شريكك في القائمة أدناه."
+    },
+    {
+      "key": "partner-details-key",
+      "en": "Partner Details",
+      "ar": "تفاصيل الشريك"
+    },
+    {
+      "key": "passport-details-key",
+      "en": "Passport Details",
+      "ar": "تفاصيل جواز السفر"
+    },
+    {
+      "key": "emirates-id-details-key",
+      "en": "Emirates ID Details",
+      "ar": "تفاصيل الهوية الإماراتية"
+    },
+    {
+      "key": "visa-details-key",
+      "en": "Visa Details",
+      "ar": "تفاصيل التأشيرة"
+    },
+    {
+      "key": "enter-financial-details-key",
+      "en": "Enter Financial Details",
+      "ar": "أدخل التفاصيل المالية"
+    },
+    {
+      "key": "shared-percentage",
+      "en": "Shared Percentage",
+      "ar": "النسبة المئوية المشتركة"
+    },
+    {
+      "key": "is-poa",
+      "en": "Is POA",
+      "ar": "وكالة قانونية"
+    },
+    {
+      "key": "cheque-book-holder",
+      "en": "Cheque Book Holder",
+      "ar": "حامل دفتر الشيكات"
+    },
+    {
+      "key": "debit-card-holder",
+      "en": "Debit Card Holder",
+      "ar": "حامل بطاقة الخصم"
+    },
+    {
+      "key": "auth-signatory",
+      "en": "Auth Signatory",
+      "ar": "Auth Signatory-AR"
+    },
+    {
+      "key": "visa-number-key",
+      "en": "Visa Number",
+      "ar": "رقم الفيزا"
+    },
+    {
+      "key": "name-on-visa",
+      "en": "Name on Visa",
+      "ar": "الاسم على التأشيرة"
+    },
+    {
+      "key": "sponsor-name",
+      "en": "Sponsor Name",
+      "ar": "اسم الكفيل"
+    },
+    {
+      "key": "date-of-expiry",
+      "en": "Date of Expiry",
+      "ar": "تاريخ انتهاء الصلاحية"
+    },
+    {
+      "key": "date-of-issue",
+      "en": "Date of Issue",
+      "ar": "تاريخ الإصدار"
+    },
+    {
+      "key": "issue-place",
+      "en": "Issue Place",
+      "ar": "مكان الإصدار"
+    },
+    {
+      "key": "designation",
+      "en": "Designation",
+      "ar": "المسمى الوظيفي"
+    },
+    {
+      "key": "passport-number",
+      "en": "Passport Number",
+      "ar": "رقم جواز السفر"
+    },
+    {
+      "key": "name-on-passport",
+      "en": "Name on Passport",
+      "ar": "الاسم على جواز السفر"
+    },
+    {
+      "key": "date-of-birth",
+      "en": "Date of Birth",
+      "ar": "تاريخ الميلاد"
+    },
+    {
+      "key": "residence-country-code",
+      "en": "Residence Country Code",
+      "ar": "رمز بلد الإقامة"
+    },
+    {
+      "key": "birth-country-code",
+      "en": "Birth Country Code",
+      "ar": "رمز بلد الميلاد"
+    },
+    {
+      "key": "gender",
+      "en": "Gender",
+      "ar": "الجنس"
+    },
+    {
+      "key": "emid-number",
+      "en": "EMID Number",
+      "ar": "رقم الهوية"
+    },
+    {
+      "key": "name-on-emid",
+      "en": "Name on EMID",
+      "ar": "الاسم على الهوية"
+    },
+    {
+      "key": "partner-address-map",
+      "en": "Partner Address",
+      "ar": "عنوان الشريك"
+    },
+    {
+      "key": "transaction-details-key",
+      "en": "Transaction Details",
+      "ar": "تفاصيل المعاملة"
+    },
+    {
+      "key": "mode-of-transaction",
+      "en": "Mode of Transaction",
+      "ar": "وضع المعاملات"
+    },
+    {
+      "key": "transaction-type-key",
+      "en": "Transaction Type",
+      "ar": "نوع المعاملة"
+    },
+    {
+      "key": "total-number-of-monthly-transactions",
+      "en": "Total Number of Monthly Transactions",
+      "ar": "إجمالي عدد المعاملات الشهرية"
+    },
+    {
+      "key": "total-sum-of-monthly-transactions",
+      "en": "Sum of Monthly Transactions (AED)",
+      "ar": "مجموع المعاملات الشهرية (بالدرهم الإماراتي)"
+    },
+    {
+      "key": "countries-list-key",
+      "en": "Top 3 Countries For Remittance",
+      "ar": "أهم 3 دول للتحويل"
+    },
+    {
+      "key": "high-cash-transaction-reason",
+      "en": "Large Sum Transaction Reason",
+      "ar": "سبب ارتفاع المعاملات النقدية"
+    },
+    {
+      "key": "enter-financial-details-sub-header-key",
+      "en": "Provide the information regarding your expected monthly deposits and withdrawals.",
+      "ar": "قم بتقديم المعلومات المتعلقة بعمليات السحب والإيداع الشهرية المتوقعة."
+    },
+    {
+      "key": "company-address-proof",
+      "en": "COMPANY ADDRESS PROOF",
+      "ar": "إثبات عنوان الشركة"
+    },
+    {
+      "key": "bank-statements",
+      "en": "BANK STATEMENTS (PAST 3 MONTHS)",
+      "ar": "كشوف الحسابات المصرفية (الأشهر الثلاثة الماضية)"
+    },
+    {
+      "key": "vat-reg-cert",
+      "en": "VAT Registration Certificate",
+      "ar": "شهادة تسجيل ضريبة القيمة المضافة."
+    },
+    {
+      "key": "upload-documents-sub-header-key",
+      "en": "Upload the requested documents for your application.",
+      "ar": "قم بتحميل الوثائق المطلوبة لطلبك."
+    },
+    {
+      "key": "upload-documents",
+      "en": "Upload Documents",
+      "ar": "تحميل الوثائق"
+    },
+    {
+      "key": "reference-no-label-key",
+      "en": "Reference number:",
+      "ar": "الرقم المرجعي للطلب:"
+    },
+    {
+      "key": "submitted-on-label-key",
+      "en": "Submitted on:",
+      "ar": "تاريخ تقديم الطلب:"
+    },
+    {
+      "key": "company-details",
+      "en": "Company Details",
+      "ar": "تفاصيل الشركة"
+    },
+    {
+      "key": "company-location",
+      "en": "Company Location",
+      "ar": "موقع الشركة"
+    },
+    {
+      "key": "application-status",
+      "en": "Application Status",
+      "ar": "حالة الطلب"
+    },
+    {
+      "key": "primary-line-of-business",
+      "en": "Primary Line of Business",
+      "ar": "خط الأعمال الرئيسي"
+    },
+    {
+      "key": "expected-annual-turnover",
+      "en": "Expected Annual Turn Over",
+      "ar": "المبيعات السنوية المتوقعة"
+    },
+    {
+      "key": "capital-investment",
+      "en": "Capital Investment",
+      "ar": "استثمار رأس المال"
+    },
+    {
+      "key": "source-of-funds",
+      "en": "Source of Funds",
+      "ar": "مصدر التمويل"
+    },
+    {
+      "key": "pending-title",
+      "en": "Your Application Is Under Review",
+      "ar": "طلبك قيد المراجعة"
+    },
+    {
+      "key": "pending-title-text",
+      "en": "Your application has been submitted for review. You will be notified whenever the status of your application changes.",
+      "ar": "تم تقديم طلبك للمراجعة. سيتم إشعارك عندما يطرأ أي تغيير على حالة طلبك."
+    },
+    {
+      "key": "response-summary",
+      "en": "Application Summary",
+      "ar": "ملخص الطلب"
+    },
+    {
+      "key": "relatedServices-title",
+      "en": "Related services",
+      "ar": "الخدمات ذات الصلة"
+    },
+    {
+      "key": "relatedServices-text",
+      "en": "Below are other related services that are provided by Social Support Authority.",
+      "ar": "فيما يلي الخدمات الأخرى ذات الصلة التي تقدمها هيئة الدعم الاجتماعي."
+    },
+    {
+      "key": "personal-details",
+      "en": "Personal Details",
+      "ar": "البيانات الشخصية"
+    },
+    {
+      "key": "document-details",
+      "en": "Other Documents",
+      "ar": "وثائق أخرى"
+    },
+    {
+      "key": "name-of-the-company-key",
+      "en": "Company Name",
+      "ar": "اسم الشركة"
+    },
+    {
+      "key": "incorporation-date-key",
+      "en": "Incorporation Date",
+      "ar": "تاريخ التأسيس"
+    },
+    {
+      "key": "trade-license-number-key",
+      "en": "Trade Licence Number",
+      "ar": "رقم الرخصة التجارية"
+    },
+    {
+      "key": "expiry-date-key",
+      "en": "Expiry Date",
+      "ar": "تاريخ الانتهاء"
+    },
+    {
+      "key": "company-information-key",
+      "en": "Company Information",
+      "ar": "معلومات الشركة"
+    },
+    {
+      "key": "branch-code-key",
+      "en": "Branch Code",
+      "ar": "رمز الفرع"
+    },
+    {
+      "key": "tax-reg-number",
+      "en": "Tax Registration Number",
+      "ar": "رقم التسجيل الضريبي"
+    },
+    {
+      "key": "does-company-have-physical-office",
+      "en": "Does the company have a physical office?",
+      "ar": "هل للشركة مكتب فعلي؟"
+    },
+    {
+      "key": "custormer-details-key",
+      "en": "Customer Details",
+      "ar": "تفاصيل المتعامل"
+    },
+    {
+      "key": "top-customers",
+      "en": "List down your top customers (Maximum 3).",
+      "ar": "ضع قائمة بأهم المتعاملين لديك (بحد أقصى 3 متعاملين)."
+    },
+    {
+      "key": "applicable-for-my-company",
+      "en": "This is not applicable for my company",
+      "ar": "لا تنطبق هذه الخطوة على شركتي"
+    },
+    {
+      "key": "supplier-details-key",
+      "en": "Supplier Details",
+      "ar": "تفاصيل الموّرد"
+    },
+    {
+      "key": "top-suppliers",
+      "en": "List down the suppliers from where most of your procurements and supplies are secured (Maximum 3).",
+      "ar": "قم بإدراج الموّردين الذين تُؤمّن من خلالهم معظم مشترياتك وإمداداتك (بحد أقصى 3 موردين)."
+    },
+    {
+      "key": "enter-company-details-sub-header",
+      "en": "Provide your company details below.",
+      "ar": "قم بإضافة تفاصيل شركتك أدناه."
+    },
+    {
+      "key": "enter-company-details-key",
+      "en": "Enter Company Details",
+      "ar": "إدخال تفاصيل الشركة"
+    },
+    {
+      "key": "about-the-company-key",
+      "en": "Company Details",
+      "ar": "تفاصيل الشركة"
+    },
+    {
+      "key": "trade-license-details-key",
+      "en": "Trade Licence Details",
+      "ar": "تفاصيل الرخصة التجارية"
+    },
+    {
+      "key": "sidebar-title",
+      "en": "Relevant Entity",
+      "ar": "الجهة المسؤولة"
+    },
+    {
+      "key": "adge_address",
+      "en": "Al Salaam Street, Ministries Complex, Abu Dhabi, UAE P.O Box : 36005",
+      "ar": "شارع السلام، مجمع الوزارات، أبوظبي، الإمارات العربية المتحدة الرمز البريدي: 36005"
+    },
+    {
+      "key": "adl-redirect-msg",
+      "en": "Please wait while we're resuming this draft application.",
+      "ar": "يرجى الانتظار حتى نستأنف مسودة التطبيق هذه."
+    },
+    {
+      "key": "customer-details-key",
+      "en": "Customer Details",
+      "ar": "تفاصيل المتعامل"
+    },
+    {
+      "key": "supplier-to-be-added",
+      "en": "Supplier 1",
+      "ar": "Supplier 1-AR"
+    },
+    {
+      "key": "supplier-name",
+      "en": "Supplier Name",
+      "ar": "اسم الموّرد"
+    },
+    {
+      "key": "supplier-to-be-added-two",
+      "en": "Supplier 2",
+      "ar": "Supplier 2-AR"
+    },
+    {
+      "key": "supplier-to-be-added-three",
+      "en": "Supplier 3",
+      "ar": "Supplier 3-AR"
+    },
+    {
+      "key": "provide-supplier-information",
+      "en": "Please provide the supplier information below.",
+      "ar": "يرجى إدخال معلومات الموّرد أدناه."
+    },
+    {
+      "key": "enter-supplier-information",
+      "en": "Enter Supplier Information",
+      "ar": "إضافة معلومات الموّرد"
+    }
+  ]

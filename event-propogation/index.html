@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<title>event propogation examples</title>
+		<link rel="stylesheet" href="index.css" />
+		<script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.min.js"></script>
+	</head>
+	<body>
+		<div id="parent-id">
+			<div id="child-id"></div>
+		</div>
+		<div class="cta_container">
+			<button class="cta_button">Watch me bubble</button>
+		</div>
+		<h1 class="title">Shopping List</h1>
+
+		<ul class="list">
+			<li class="item">MacBook Pro</li>
+			<li class="item">Logitech MX Keys</li>
+			<li class="item">Sony a6400 camera</li>
+			<li class="item">Boya universal cardioid microphone</li>
+			<li class="item">Light ring</li>
+		</ul>
+
+		<script>
+			// by default event bubbling mode is on. but in order to get rid of this.
+			// means if we want to handle the event of an element without invoking the events of other elements in the hiererchy.
+			// we can use event.propogation
+			const parentId = document.getElementById('parent-id');
+			const childId = document.getElementById('child-id');
+			const handleParent = () => {
+				alert('I am in parent div');
+			};
+			const childParent = () => {
+				alert('I am in child div');
+				event.stopPropagation();
+			};
+			parentId.addEventListener('click', handleParent);
+			childId.addEventListener('click', childParent);
+			document
+				.querySelector('.cta_container')
+				.addEventListener('click', function (event) {
+					console.info(
+						`Click event fired on ${this.nodeName} , ${event.target}`
+					);
+				});
+			// Event Bubbling - Phase 3
+			document
+				.querySelector('.list')
+				.addEventListener('click', function (event) {
+					console.info(`${event.type} event fired on ${this.nodeName}`);
+					console.log('event.target', event.target);
+                    //classList is an object use to play around with className attribute of an element
+                    //add or remove or toggle or do more stuff with it
+                    
+					event.target.classList.toggle('purchased');
+
+					
+				});
+		</script>
+	</body>
+</html>
